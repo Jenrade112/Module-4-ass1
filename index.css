@@ -1,0 +1,35 @@
+h1{
+    font-size: 18px;
+}
+h2{
+    font-size: 18px;
+}
+h3{
+    font-size: 18px;
+}
+.section 1{   
+    padding:18px;
+    border:5px;
+    margin:5PX;
+}
+ p{
+    color: green;
+ }
+ .setion 2{
+    font-size:14px;
+    padding: 8px;
+    border:5px;
+    margin:5px;
+ }
+ .lesson1{
+    color:red;
+ }
+ .section3{
+    font-size: 14px;
+    padding: 8px;
+    border: 5px;
+    margin: 5px;
+ }
+ .lesson2{
+    color: blue;
+ }
